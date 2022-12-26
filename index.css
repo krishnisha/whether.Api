@@ -1,0 +1,80 @@
+img {
+  width: 300px;
+  height: 155px;
+  position: relative;
+  left: 60px;
+
+
+}
+
+.region{
+  font-size: 20px;
+  color: rgb(16, 75, 94);
+  font-family: 'Roboto', sans-serif;
+  text-align: center;
+}
+
+.card {
+
+  text-align: left;
+  width: 406px;
+  height: 500px;
+  border-radius: 20px;
+  margin-left: 180px;
+
+}
+
+.card-group {
+  float: left;
+  text-align: center;
+  margin-bottom: 15px;
+  border-radius: 30px;
+}
+
+body {
+  background-color: rgb(185, 246, 241);
+ 
+}
+
+button {
+position: relative;
+left: 110px;
+border-radius: 10px;
+background-color: rgb(114, 104, 199);
+color: rgb(236, 153, 153);
+font-family: 'Roboto', sans-serif;
+padding: 15px 20px;
+}
+h5{
+  text-align: center;
+  color: rgb(244, 213, 111);
+  font-family: 'Roboto', sans-serif;
+  font-size: 25px;
+
+}
+.h1{
+  text-align: center;
+  text-decoration: underline;
+  color: rgb(228, 140, 194);
+  font-family: 'Roboto', sans-serif;
+  font-size: 50px;
+
+}
+p{
+  text-align: center;
+  color: rgba(17, 7, 58, 0.808);
+  font-family: 'Montserrat', sans-serif;
+  font-size: 15px;
+  
+ 
+}
+.cardbody{
+  background-color: rgb(173, 228, 206);
+  border: none;
+  box-shadow: 2px 2px 3px 3px rgba(174, 173, 173, 0.212);
+  width: 500px;
+  position: relative;
+  right: 200px;
+  height: 800px;
+  bottom: 100px;
+}
